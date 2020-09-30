@@ -1,9 +1,13 @@
 # THIS PROGRAM HELPS YOU TO DISCOVER DEVICES CONNECTED TO YOUR NETWORK.
 ## REQUIRMENTS:
 RUNS ON WINDOWS, LINUX AND MAC.
+
 PYTHON3
+
 RUN-->(on cmd as administrator)
+
 pip3 install --pre scapy[complete]
+
 NOTE-FIRST INSTALL PYTHON AND PIP before RUNNING ABOVE COMMAND.
 
 ## TO RUN THE PROGRAM copy and paste: (open cmd as administrator)
