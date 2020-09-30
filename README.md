@@ -13,7 +13,7 @@ NOTE-FIRST INSTALL PYTHON AND PIP before RUNNING ABOVE COMMAND.
 ## TO RUN THE PROGRAM copy and paste: (open cmd as administrator)
 git clone https://github.com/mpandey67/device-detective-win.git
 
-cd /device-detective
+cd /device-detective-win
 
 chmod +x device-detective.py
 
